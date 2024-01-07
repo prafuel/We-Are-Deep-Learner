@@ -1,4 +1,4 @@
-# lets_learn_deep
+# Deep Learning : 
 
 
 some mini deep learning projects, that helps me to learn "deeply"
