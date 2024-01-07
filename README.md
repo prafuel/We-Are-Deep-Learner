@@ -1,4 +1,4 @@
-# Deep Learning : 
+# Deep Learning Projects: 
 
 ### some mini deep learning projects, that helps me to learn "deeply"
 
