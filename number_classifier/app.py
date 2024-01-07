@@ -20,7 +20,7 @@ def classifiy_number(sample):
 import streamlit as st
 st.set_page_config(
     page_title="number classifier",
-    layout="wide"
+    layout="centered"
 )
 from random import randint
 
