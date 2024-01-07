@@ -1,9 +1,9 @@
 import pickle
 import numpy as np
 
-x_train = pickle.load(open("x_train.pkl", "rb"))
-x_train_norm = pickle.load(open("x_train_norm.pkl", "rb"))
-y_train = pickle.load(open("y_train.pkl", "rb"))
+x_train = pickle.load(open("./number_classifier/x_train.pkl", "rb"))
+x_train_norm = pickle.load(open("./number_classifier/x_train_norm.pkl", "rb"))
+y_train = pickle.load(open("./number_classifier/y_train.pkl", "rb"))
 
 
 # model import
