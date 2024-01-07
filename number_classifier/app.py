@@ -7,7 +7,7 @@ y_train = pickle.load(open("./number_classifier/y_train.pkl", "rb"))
 
 
 # model import
-from Number_classify import classifiy_number
+from number_classifier.Number_classify import classifiy_number
 
 import streamlit as st
 from random import randint
