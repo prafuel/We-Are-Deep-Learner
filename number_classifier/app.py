@@ -18,6 +18,10 @@ def classifiy_number(sample):
     return np.argmax(result)
 
 import streamlit as st
+st.set_page_config(
+    page_title="number classifier",
+    layout="wide"
+)
 from random import randint
 
 from matplotlib import pyplot as plt
